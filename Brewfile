@@ -22,7 +22,7 @@ cask install kobito
 cask install licecap
 cask install macdown
 cask install magican
-#cask install sublime-text
+cask install sublime-text
 cask install sourcetree
 cask install xmind
 cask install xquartz
