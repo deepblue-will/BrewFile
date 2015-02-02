@@ -13,7 +13,8 @@ cask install dash
 cask install day-o
 cask install dropbox
 cask install evernote
-#cask install google-chrome
+cask install google-chrome
+cask install google-drive
 cask install google-japanese-ime
 cask install hyperswitch
 cask install imageoptim
@@ -22,8 +23,8 @@ cask install kobito
 cask install licecap
 cask install macdown
 cask install magican
-cask install sublime-text
 cask install sourcetree
+cask install sublime-text
 cask install xmind
 cask install xquartz
 cask install xtrafinder
@@ -93,7 +94,6 @@ install zeromq
 install zsh
 
 # App Store applications
-appstore DragonDrop
 appstore GarageBand
 appstore iMage Tools
 appstore iMovie
@@ -102,13 +102,13 @@ appstore JPEGmini Lite
 appstore Keynote
 appstore Markdown Pro
 appstore Monosnap
-appstore OneDrive
+appstore Numbers
+appstore Pages
 appstore Pocket
-appstore PopClip
+appstore Pushbullet
+appstore Slack
 appstore StuffIt Expander
 appstore ToyViewer
-appstore Transmit
-appstore TypeIt4Me
 appstore WinArchiver Lite
 appstore Wunderlist
 appstore Xcode
