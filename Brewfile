@@ -23,6 +23,7 @@ cask install kobito
 cask install licecap
 cask install macdown
 cask install magican
+cask install sequel-pro
 cask install sourcetree
 cask install sublime-text
 cask install xmind
@@ -56,10 +57,12 @@ install freetype
 install gdbm
 install gettext
 install git
+install git-flow
 install glib
 install gobject-introspection
 install harfbuzz
 install icu4c
+install imagemagick
 install jpeg
 install jpeg-turbo
 install libevent
@@ -70,6 +73,7 @@ install libtool
 install libyaml
 install macvim --override-system-vim
 install mongodb
+install mysql
 install nasm
 install nodebrew
 install openssl
@@ -83,6 +87,7 @@ install rbenv
 install rbenv-gem-rehash
 install rbenv-gemset
 install readline
+install redis
 install ruby-build
 install sqlite
 install tig
@@ -90,6 +95,7 @@ install tmux
 install tree
 install ttfautohint
 install vimpager
+install xz
 install zeromq
 install zsh
 
@@ -101,6 +107,7 @@ appstore iPhoto
 appstore JPEGmini Lite
 appstore Keynote
 appstore Markdown Pro
+appstore Memory Diag
 appstore Monosnap
 appstore Numbers
 appstore Pages
